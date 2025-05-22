@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Su!;Backend+Developer+with+a+warm+yellow+vibe+%F0%9F%92%9B;HEAR%2C+FLEE%2C+THINK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Su!;Backend+Developer+with+a+warm+yellow+vibe+%F0%9F%92%9B;HEAR%2C+FLEE%2C+THINK" />
 </h1>
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🐣 About Me
 
-- 🎓 I graduated from **Donga University** with a degree in Computer Science (GPA: 3.76)
+- 🎓 I graduated from **Donga University** with a degree in Computer Engineering (GPA: 3.76)
 - 🧩 Currently learning **Algorithms (C++, Java)** and diving deep into **Backend Development (Java, Spring Boot)**
 - 🤖 I have 1 year of experience in **Robot Control System Development** (C++, C#, WPF)
 - 💛 I’m passionate about backend logic, databases, and building reliable systems
