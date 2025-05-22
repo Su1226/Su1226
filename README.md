@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Su!;Backend+%7C+System+%7C+Cat+Lover;Let's+build+something+beautiful!+💛" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Su+%F0%9F%90%BC;Backend+Developer+with+a+warm+yellow+vibe+%F0%9F%92%9B;Curecode+creator+%7C+Java+%7C+SpringBoot+%7C+C%2B%2B;Loves+algorithms+%26+cat+caf%C3%A9s+%E2%98%95%EF%B8%8F%F0%9F%90%B1;HEAR%2C+FLEE%2C+THINK+%7C+Rainy+coding+days+are+the+best+%F0%9F%8C%A7" />
 </h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=000000"/>
