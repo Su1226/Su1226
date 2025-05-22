@@ -26,19 +26,11 @@ Here are some ideas to get you started:
 ## 🐣 About Me
 
 - 🎓 I graduated from **Donga University** with a degree in Computer Science (GPA: 3.76)
-- 🧩 Currently learning **Algorithms (C++)** and diving deep into **Backend Development (Java, Spring Boot)**
+- 🧩 Currently learning **Algorithms (C++, Java)** and diving deep into **Backend Development (Java, Spring Boot)**
 - 🤖 I have 1 year of experience in **Robot Control System Development** (C++, C#, WPF)
 - 💛 I’m passionate about backend logic, databases, and building reliable systems
 - 🌼 My favorite languages are `C++` for solving algorithms and `Java` for building servers!
 - ☕ Let’s talk about coding, coffee, or anything geeky — I’m all ears!
-
----
-
-## 🎶 Now Playing
-
-> 🎧 **"HEAR, FLEE, THINK" — FF14 OST**  
-> 🌌 *Music that whispers in code and echoes in dreams...*  
-> ▶️ [Listen on YouTube](https://www.youtube.com/watch?v=vWgpJ0k820w)
 
 ---
 
@@ -59,6 +51,15 @@ Here are some ideas to get you started:
 | **알고리즘** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **데이터베이스** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 
+---
+
+## 🎯 Goals
+
+- 🧠 Become a full-stack developer (Backend + Frontend)
+- 🌍 Deploy my first app with Docker & CI/CD
+- 📈 Keep growing as a backend and DB engineer!
+  
+---
 
 ---
 ## 📊 GitHub Stats
@@ -73,12 +74,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎯 Goals
+## 🎶 Now Playing
 
-- 🧠 Become a full-stack developer (Backend + Frontend)
-- 🌍 Deploy my first app with Docker & CI/CD
-- 📈 Keep growing as a backend and DB engineer!
-  
+> 🎧 **"HEAR, FLEE, THINK" — FF14 OST**  
+> 🌌 *Music that whispers in code and echoes in dreams...*  
+> ▶️ [Listen on YouTube](https://www.youtube.com/watch?v=vWgpJ0k820w)
+
 ---
 
 ## 💌 Let's Connect!
