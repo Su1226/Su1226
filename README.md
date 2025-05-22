@@ -33,13 +33,16 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Languages & Tools
+## 💡 What I Can Do
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+| 분야 | 기술/도구 | 설명 |
+|------|-----------|------|
+| 💻 백엔드 개발 | Java, Spring Boot, MySQL, SQLite | API 설계 및 서버/DB 연동, 로그인/게시판 기능 가능 |
+| ⚙ 시스템 개발 | C, C++, C#, WPF | 데스크탑 앱 개발 및 시스템 제어 경험 |
+| 🌐 웹 개발 | HTML, CSS, PHP, Apache Tomcat | 웹 페이지 제작 및 서버 배포 환경 구축 가능 |
+| 📱 앱 개발 | Android Studio, Firebase | 치료코드 앱(Curecode) 개발 중, 이미지 기반 UI 표시 |
+| 🧠 알고리즘 | Java, C++, Python | 알고리즘 문제 풀이 및 대회 준비 경험 |
+
 
 ---
 
@@ -60,5 +63,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=150&section=footer](https://chatgpt.com/s/m_682d93185cd48191b4441e2999252c6c)"/>
+  <img src="https://chatgpt.com/s/m_682d93185cd48191b4441e2999252c6c"/>
 </p>
