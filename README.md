@@ -64,6 +64,12 @@ Here are some ideas to get you started:
   
 ---
 
+## 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://github.com/Su1226/Su1226/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 ## 📊 GitHub Stats
 
