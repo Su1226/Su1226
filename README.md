@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Su</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Su!;Backend+%7C+System+%7C+Cat+Lover;Let's+build+something+beautiful!+💛" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=000000"/>
