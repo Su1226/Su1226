@@ -36,17 +36,9 @@ Here are some ideas to get you started:
 
 ## 🎶 Now Playing
 
-> 🌌 *“HEAR, FLEE, THINK” — NieR Automata OST*  
-> 🟡 *Music that whispers in code and echoes in dreams...*
-
-<p align="center">
-  <iframe width="320" height="180"
-    src="https://www.youtube.com/embed/vWgpJ0k820w?autoplay=1&mute=1&loop=1&playlist=vWgpJ0k820w"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen>
-  </iframe>
-</p>
+> 🎧 **"HEAR, FLEE, THINK" — FF14 OST**  
+> 🌌 *Music that whispers in code and echoes in dreams...*  
+> ▶️ [Listen on YouTube](https://www.youtube.com/watch?v=vWgpJ0k820w)
 
 ---
 
