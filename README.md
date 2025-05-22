@@ -23,17 +23,24 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 About Me
+## 🐣 About Me
 
-- 🔍 I’m currently studying **Algorithms and System Programming**
-- 🎓 Donga University - Algorithm Study (2022)
-- 💬 Ask me about `C++`, `Java`, or `Spring Boot`!
-- 🧠 Interested in Backend, DB, DevOps
+- 🎓 I graduated from **Donga University** with a degree in Computer Science (GPA: 3.76)
+- 🧩 Currently learning **Algorithms (C++)** and diving deep into **Backend Development (Java, Spring Boot)**
+- 🤖 I have 1 year of experience in **Robot Control System Development** (C++, C#, WPF)
+- 💛 I’m passionate about backend logic, databases, and building reliable systems
+- 🌼 My favorite languages are `C++` for solving algorithms and `Java` for building servers!
+- ☕ Let’s talk about coding, coffee, or anything geeky — I’m all ears!
+
+---
+
+## 📜 Certifications
+
+- (Coming soon!)
 
 ---
 
 ## 🛠️ Languages & Tools
-## 💡 What I Can Do
 
 | 백엔드 | 시스템 | 웹 | 앱 | 알고리즘 | 데이터베이스 |
 |--------|--------|-----|-----|----------|---------------|
