@@ -58,6 +58,15 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Su1226&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Su1226&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su1226&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📌 Pinned Project
 
@@ -65,6 +74,15 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://chatgpt.com/s/m_682d93185cd48191b4441e2999252c6c"/>
-</p>
+## 🎯 Goals
+
+- 🧠 Become a full-stack developer (Backend + Frontend)
+- 🌍 Deploy my first app with Docker & CI/CD
+- 📈 Keep growing as a backend and DB engineer!
+- 
+---
+
+## 💌 Let's Connect!
+
+- 📫 Email: br12232620@gmail.com  
+- 🐱 GitHub: [Su1226](https://github.com/Su1226)
